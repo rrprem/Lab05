@@ -30,36 +30,43 @@
             android:textSize="30sp"/>
 
         <TextView
+            android:id="@+id/create1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/oncreate"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/start1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onstart"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/resume1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onresume"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/pause1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onpause"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/stop1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onstop"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/restart1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onrestart"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/destroy1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/ondestroy"
@@ -84,36 +91,43 @@
             android:textSize="30sp"/>
 
         <TextView
+            android:id="@+id/create2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/oncreate"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/start2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onstart"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/resume2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onresume"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/pause2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onpause"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/stop2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onstop"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/restart2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/onrestart"
             android:textSize="20sp"/>
         <TextView
+            android:id="@+id/destroy2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/ondestroy"
