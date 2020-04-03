@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Lab 05</string>
     <string name="set_1">Set 1 </string>
-    <string name="set_1">Set 1</string>
     <string name="set_2">Set 2</string>
     <string name="oncreate">onCreate()  0</string>
     <string name="onstart">onStart()  0</string>
